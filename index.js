@@ -11,4 +11,4 @@ app.listen(PORT, () => {
  console.log(`Server is running on http://localhost:${PORT}`);
 });
 
-var x = 5;
+// var x = 5;
