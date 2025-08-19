@@ -36,4 +36,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/niraj-kc/nodejs-cilab:/nodejs-cilab:${{ github.sha }}
+          tags: ghcr.io/niraj-kc/nodejs-cilab:nodejs-cilab:${{ github.sha }}
